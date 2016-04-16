@@ -1,0 +1,13 @@
+for question A:
+	
+	0000000000400624 T _Z7averagePdRd
+	0000000000400652 T _Z7averageif
+
+for question B:
+	
+1 8
+4 8
+4 8
+8 8
+
+All the size of pointers for different types are same(==8bytes).
